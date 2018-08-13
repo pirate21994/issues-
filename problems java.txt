@@ -1,0 +1,71 @@
+java class file dosent compile from command line 
+environment variable path set instructions 
+get set 
+
+how to set path of jdk:
+
+control panel->system and securtiy ->system->advance system settings->environment variables->select new give variable name-PATH variable value-jdk path
+and press ok
+
+jdk path:
+c://program files/jav /jdk/bin
+
+
+
+
+
+###############
+
+@ https://www.javatpoint.com/java-data-types
+
+1. 8-bit signed two's complement integer
+
+2. The float data type should never be used for precise values, such as currency
+
+3. The Boolean data type specifies one bit of information, but its "size" can't be defined precisely.
+
+@ https://www.javatpoint.com/operators-in-java
+
+4. Java Unary Operator Example: ~ and !
+
+5. Java Left Shift Operator
+
+6. Java Assignment Operator Example: Adding short
+
+@ https://www.javatpoint.com/object-and-class-in-java
+
+7. What are the different ways to create an object in Java?
+
+@ https://www.javatpoint.com/static-keyword-in-java
+
+8. this and super cannot be used in static context.
+
+9. Can we execute a program without main() method?
+
+@ https://www.javatpoint.com/this-keyword
+
+10. error in TestThis.java ??
+
+11. 4) this: to pass as an argument in the method :: void m(S2 obj)
+
+12. Example of this keyword that you return as a statement from the method ,:: error in Test1.java ,:: A getA(){ ,:: new A().getA().msg(); 
+
+@ https://www.javatpoint.com/aggregation-in-java
+
+13. Inheritance should be used only if the relationship is-a is maintained throughout the lifetime of the objects involved; otherwise, aggregation is the best choice.
+
+14. what is this "Inheritance("IS-A")Aggregation("HAS-A")"
+
+@ https://www.javatpoint.com/method-overloading-in-java 
+
+15. Can we overload java main() method? 
+
+@ https://www.javatpoint.com/method-overriding-in-java
+
+16. Can we override static method?
+
+17. Why we cannot override static method?
+
+18. Can we override java main method?
+
+19. how about this one : https://docs.oracle.com/javase/tutorial/index.html
